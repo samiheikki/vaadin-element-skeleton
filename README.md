@@ -10,7 +10,7 @@
 [API documentation ↗](https://cdn.vaadin.com/vaadin-core-elements/master/vaadin-element/)
 
 
-[&lt;vaadin-element&gt;](https://vaadin.com/elements/-/element/vaadin-element) is a [Polymer 2](http://polymer-project.org) element providing &lt;element-functionality&gt;, part of the [Vaadin Core Elements](https://vaadin.com/elements).
+[&lt;vaadin-element&gt;](https://vaadin.com/elements/-/element/vaadin-element) is a Web Component custom element providing &lt;element-functionality&gt;, part of the [Vaadin Core Elements](https://vaadin.com/elements).
 
 <!--
 ```
